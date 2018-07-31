@@ -1,0 +1,11 @@
+PAYSLIP FOR MAY 2010
+====================
+Name of Staff: Carol 
+Hours Worked: 25 
+  
+Basic Pay: 750
+Overtime Pay: £0.00
+ 
+====================
+Total Pay: £750.00 
+====================

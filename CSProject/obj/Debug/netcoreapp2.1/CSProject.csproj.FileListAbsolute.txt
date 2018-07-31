@@ -1,0 +1,11 @@
+/Users/femi/Projects/CSProject/CSProject/bin/Debug/netcoreapp2.1/CSProject.deps.json
+/Users/femi/Projects/CSProject/CSProject/bin/Debug/netcoreapp2.1/CSProject.runtimeconfig.json
+/Users/femi/Projects/CSProject/CSProject/bin/Debug/netcoreapp2.1/CSProject.runtimeconfig.dev.json
+/Users/femi/Projects/CSProject/CSProject/bin/Debug/netcoreapp2.1/CSProject.dll
+/Users/femi/Projects/CSProject/CSProject/bin/Debug/netcoreapp2.1/CSProject.pdb
+/Users/femi/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.csprojResolveAssemblyReference.cache
+/Users/femi/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.csproj.CoreCompileInputs.cache
+/Users/femi/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.AssemblyInfoInputs.cache
+/Users/femi/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.AssemblyInfo.cs
+/Users/femi/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.dll
+/Users/femi/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.pdb

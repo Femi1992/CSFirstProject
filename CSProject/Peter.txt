@@ -1,0 +1,11 @@
+PAYSLIP FOR MAY 2010
+====================
+Name of Staff: Peter 
+Hours Worked: 45 
+  
+Basic Pay: 2250
+Allowance: £0.00
+ 
+====================
+Total Pay: £2,250.00 
+====================

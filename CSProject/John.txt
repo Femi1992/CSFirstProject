@@ -1,0 +1,11 @@
+PAYSLIP FOR MAY 2010
+====================
+Name of Staff: John 
+Hours Worked: 30 
+  
+Basic Pay: 900
+Overtime Pay: £0.00
+ 
+====================
+Total Pay: £900.00 
+====================
